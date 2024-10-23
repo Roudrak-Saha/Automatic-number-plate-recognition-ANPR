@@ -1,0 +1,7 @@
+path: D:\Documents\Projects\YOLO
+train: final_data\images
+val: final_data\images
+
+
+names:
+  0: LP
